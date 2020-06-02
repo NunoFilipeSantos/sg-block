@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Wordpress Tech Interview
- * Plugin URI: https://github.com/nunofilipesantos
+ * Plugin URI: https://github.com/NunoFilipeSantos/sg-block
  * Description: This plugin creates a simple Gutenberg block
  * Version: 1.0.0
  * Author: Nuno Santos
