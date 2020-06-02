@@ -6,7 +6,7 @@ wp.blocks.registerBlockType( 'sg-block/simple-block', {
     category: 'common',
  
     edit: function ( props ) {
-       return wp.element.createElement( 'p', { className: 'custom-block' }, 'Hello World' );
+       return wp.element.createElement( 'p', { className: 'custom-block' }, 'Hi there Automattic!' );
     },
  
     save: function () {
