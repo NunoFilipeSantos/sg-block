@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Wordpress Tech Interview
- * Plugin URI: https://imransayed.com
+ * Plugin URI: https://github.com/nunofilipesantos
  * Description: This plugin creates a simple Gutenberg block
  * Version: 1.0.0
  * Author: Nuno Santos
- * Author URI: https://profiles.wordpress.org/gsayed786
+ * Author URI: https://www.linkedin.com/in/nunofilipegomessantos/
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: sg-block
